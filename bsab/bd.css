@@ -1,0 +1,48 @@
+body {
+     margin: 10px;
+}
+.fnt-cntr {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(3, 3, 100);
+    color: aliceblue;
+    border-radius: 06px;
+}
+.ft {
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.mrq {
+    font-size: 18px;
+    color: rgb(3, 3, 100);
+    font-family: "Comic Sans MS", Sans-serif;
+    font-weight: bolder;
+}
+.well {
+    text-align: justify;
+    font-size: 15px;
+}
+.af_rc {
+    text-align: center;
+    font-family: cursive;
+    font-size: 15px;
+
+}
+.rgtsd{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+marquee {
+    margin-bottom: 15PX;
+}
+#page-ft {
+    background-color: aliceblue;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    color: blue;
+}
+
